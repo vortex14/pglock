@@ -1,7 +1,6 @@
-module github.com/vortex14/pglock.git
+module github.com/vortex14/pglock
 
 require (
-	github.com/vortex14/pglock v1.14.1
 	github.com/DATA-DOG/go-sqlmock v1.5.2
 	github.com/jackc/pgx/v4 v4.18.1
 	github.com/lib/pq v1.10.9
