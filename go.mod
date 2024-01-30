@@ -1,6 +1,7 @@
-module cirello.io/pglock
+module github.com/vortex14/pglock.git
 
 require (
+	github.com/vortex14/pglock v1.14.1
 	github.com/DATA-DOG/go-sqlmock v1.5.2
 	github.com/jackc/pgx/v4 v4.18.1
 	github.com/lib/pq v1.10.9
@@ -19,4 +20,6 @@ require (
 	golang.org/x/text v0.14.0 // indirect
 )
 
-go 1.19
+go 1.21
+
+toolchain go1.21.3

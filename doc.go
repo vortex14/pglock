@@ -76,4 +76,4 @@ limitations under the License.
 //
 // This package is covered by this SLA:
 // https://github.com/cirello-io/public/blob/master/SLA.md
-package pglock // import "cirello.io/pglock"
+package pglock // import "github.com/vortex14/pglock"
